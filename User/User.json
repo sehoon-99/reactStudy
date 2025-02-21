@@ -3,26 +3,30 @@
     "id" : 1,
     "name": "김 희애",
     "age" : 50,
-    "personalColor" : "red"
+    "personalColor" : "red",
+    "score" : 80
   },
   {
     "id" : 2,
     "name": "전 지현",
     "age" : 45,
-    "hobbies": ["여행"]
+    "hobbies": ["여행"],
+    "score" : 70
   },
   {
     "id" : 3,
     "name": "송 혜교",
     "age" : 40,
     "personalColor" : "purple",
-    "hobbies": ["게임","축구"]
+    "hobbies": ["게임","축구"],
+    "score" : 90
   },
   {
     "id" : 4,
     "name": "한 가인",
     "age" : 48,
     "personalColor" : "skyblue",
-    "hobbies": ["영화 보기","피아노 연주"]
+    "hobbies": ["영화 보기","피아노 연주"],
+    "score" : 100
   }
 ]
