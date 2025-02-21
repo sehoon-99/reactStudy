@@ -8,19 +8,22 @@
   {
     "id" : 2,
     "name": "전 지현",
-    "age" : 45
+    "age" : 45,
+    "hobbies": ["여행"]
   },
   {
     "id" : 3,
     "name": "송 혜교",
     "age" : 40,
-    "personalColor" : "purple"
+    "personalColor" : "purple",
+    "hobbies": ["게임","축구"]
   },
   {
     "id" : 4,
     "name": "한 가인",
     "age" : 48,
-    "personalColor" : "skyblue"
+    "personalColor" : "skyblue",
+    "hobbies": ["영화 보기"]
   }
   
 ]
