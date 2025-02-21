@@ -1,0 +1,26 @@
+[
+  {
+    "id" : 1,
+    "name": "김 희애",
+    "age" : 50,
+    "personalColor" : "red"
+  },
+  {
+    "id" : 2,
+    "name": "전 지현",
+    "age" : 45
+  },
+  {
+    "id" : 3,
+    "name": "송 혜교",
+    "age" : 40,
+    "personalColor" : "purple"
+  },
+  {
+    "id" : 4,
+    "name": "한 가인",
+    "age" : 48,
+    "personalColor" : "skyblue"
+  }
+  
+]
